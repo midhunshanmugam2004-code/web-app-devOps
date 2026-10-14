@@ -113,9 +113,6 @@ This repo also includes examples for:
 - NGINX ingress setup in `ingress-controller/`
 - ArgoCD / GitOps configuration in `gitops/`
 
-## Application preview
-
-![Website](static/images/golang-website.png)
 
 ## License
 
